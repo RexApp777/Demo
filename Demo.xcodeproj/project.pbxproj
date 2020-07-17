@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		501D329124C0627B00915357 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		501D329124C0627B00915357 /* 一秒落淚.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "一秒落淚.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		501D329424C0627B00915357 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		501D329624C0627B00915357 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		501D329824C0627B00915357 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		501D329224C0627B00915357 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				501D329124C0627B00915357 /* Demo.app */,
+				501D329124C0627B00915357 /* 一秒落淚.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = Demo;
 			productName = Demo;
-			productReference = 501D329124C0627B00915357 /* Demo.app */;
+			productReference = 501D329124C0627B00915357 /* 一秒落淚.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -290,7 +290,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.rexdemo.Demo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "一秒落淚";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -307,7 +307,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.rexdemo.Demo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "一秒落淚";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
